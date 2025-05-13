@@ -1,0 +1,205 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Teclado HyperX Alloy Origins",
+      "categoria": "Teclado",
+      "imagem": "hyperx.jpg",
+      "preco": 599.99,
+      "descricao": "Teclado Mecanico Gamer HyperX Alloy Origins, RGB, ABNT2, Switch Red, Preto, 4P4F6A2AC4"
+    },
+    {
+      "id": "2",
+      "nome": "Teclado Redragon Phantom PRO",
+      "categoria": "Teclado",
+      "imagem": "phantom.jpg",
+      "preco": 419.99,
+      "descricao": "Teclado Mecanico Redragon Phantom Pro, RGB, Switch Marrom, Cinza e Creme, K629CGO-PRO-M-PT-BROWN"
+    },
+    {
+      "id": "3",
+      "nome": "Teclado Logitech G915 X",
+      "categoria": "Teclado",
+      "imagem": "g915.jpg",
+      "preco": 1149.99,
+      "descricao": "Teclado Mecanico Gamer Logitech G915 X LightSpeed TKL, RGB, Bluetooth, Switch Marrom, Branco, 920-012732"
+    },
+    {
+      "id": "4",
+      "nome": "Teclado Akko 3098 Neon",
+      "categoria": "Teclado",
+      "imagem": "akko.jpg",
+      "preco": 379.99,
+      "descricao": "Teclado Mecanico Gamer Akko 3098 Neon, Switch Cream Yellow, AKKO-3098-YELLOW"
+    },
+    {
+      "id": "5",
+      "nome": "Teclado Fortrek K15",
+      "categoria": "Teclado",
+      "imagem": "fortrek.jpg",
+      "preco": 39.99,
+      "descricao": "Teclado Membrana Fortrek K15, ABNT2, USB, Preto, 84948"
+    },
+    {
+      "id": "6",
+      "nome": "Cadeira Gamer Mancer",
+      "categoria": "Cadeira",
+      "imagem": "Cadeira-Gamer-Mancer.png",
+      "preco": 799.99,
+      "descricao": "Espuma Moldada, Braco 3D, Tecido, Preto e Roxo, MCR-TRC-FB"
+    },
+    {
+      "id": "7",
+      "nome": "Poltrona Gamer Cougar Ranger One",
+      "categoria": "Cadeira",
+      "imagem": "Cadeira-Poltrona-Gamer-Cougar-Ranger.png",
+      "preco": 1499.99,
+      "descricao": "Poltrona com acochoamento de mil fios"
+    },
+    {
+      "id": "8",
+      "nome": "Cadeira Gamer DT3",
+      "categoria": "Cadeira",
+      "imagem": "Cadeira-Gamer-DT3-Vita.png",
+      "preco": 949.99,
+      "descricao": "Cadeira de Espuma, Laranja, com apoio de braço"
+    },
+    {
+      "id": "9",
+      "nome": "Cadeira Ergonomica TGIF T0",
+      "categoria": "Cadeira",
+      "imagem": "Cadeira-Ergonomica-TGIF-T0.png",
+      "preco": 3399.99,
+      "descricao": "Espuma Moldada, Braco 3D, Preto, T0-N"
+    },
+    {
+      "id": "10",
+      "nome": "Cadeira Ergonomica TGIF ACE",
+      "categoria": "Cadeira",
+      "imagem": "Cadeira-Ergonomica-TGIF.png",
+      "preco": 2699.99,
+      "descricao": "Apoio de Braco 6D, Branco, ACE-W-6D"
+    },
+    {
+      "id": "11",
+      "nome": " Headset Gamer Havit Rosa",
+      "categoria": "Headset",
+      "imagem": "headset-rosinha-gamer1.jpg",
+      "preco": 189.99,
+      "descricao": " H2002d, Drivers 53mm, Rosa, HVGMH-H2002D-PK"
+    },
+    {
+      "id": "12",
+      "nome": " Headset Gamer Havit Branco",
+      "categoria": "Headset",
+      "imagem": "headset-gamer-branco3.jpg",
+      "preco": 179.99,
+      "descricao": " H2002d, Drivers 53mm, Branco, HVGMH-H2002D-PK"
+    },
+    {
+      "id": "13",
+      "nome": " Headset Gamer Redragon Rgb",
+      "categoria": "Headset",
+      "imagem": "headset-gamer-preto2.jpg",
+      "preco": 199.99,
+      "descricao": " H2002d, Drivers 53mm, RGB, HVGMH-H2002D-PK"
+    },
+    {
+      "id": "14",
+      "nome": " Headset Gamer Logitec",
+      "categoria": "Headset",
+      "imagem": "headset-gamer-azul2.jpg",
+      "preco": 799.99,
+      "descricao": "G733 Lightspeed 7.1 Wireless RGB Azul, 981-000942"
+    },
+    {
+      "id": "15",
+      "nome": " Headset Gamer Logitec",
+      "categoria": "Headset",
+      "imagem": "headset-de-cria-gamer5.jpg",
+      "preco": 99.99,
+      "descricao": "H111 Stereo Preto, 981-000612"
+    },
+    {
+      "id": "16",
+      "nome": "Monitor Gamer AOC 27",
+      "categoria": "Monitor",
+      "imagem": "MonitorAOC.jpg",
+      "preco": 1299.99,
+      "descricao": "Monitor Gamer AOC 27 Pol, 180Hz 0,5ms IPS Base Ajustável 27G4/P"
+    },
+    {
+      "id": "17",
+      "nome": "Monitor Gamer Duex 24",
+      "categoria": "Monitor",
+      "imagem": "MonitorDuex.jpg",
+      "preco": 799.99,
+      "descricao": "Monitor Gamer Duex, 24 Pol, IPS, FHD, 1ms, 165Hz, FreeSync/G-Sync, HDMI/DP, DXMO24F165S"
+    },
+    {
+      "id": "18",
+      "nome": "Monitor Gamer Gigabyte GS27QC",
+      "categoria": "Monitor",
+      "imagem": "MonitorGamerGigabyte.jpg",
+      "preco": 1499.99,
+      "descricao": "Monitor Gamer Gigabyte GS27QC, 27 Pol, VA, QHD, 1ms, 165Hz, DP/HDMI, GS27QC"
+    },
+    {
+      "id": "19",
+      "nome": "Monitor Samsung Odyssey ARK",
+      "categoria": "Monitor",
+      "imagem": "MonitorSamsungOdyssey.jpg",
+      "preco": 24999.9,
+      "descricao": "Monitor Samsung Odyssey ARK 2nd Gen, 55 Pol. VA Curvo, UHD 4K, 1ms, 165Hz, FreeSync Premium PRO, HDMI/DP, LS55CG97WNLXZD"
+    },
+    {
+      "id": "20",
+      "nome": "Monitor Gamer TGT Altay",
+      "categoria": "Monitor",
+      "imagem": "MonitorTGT.jpg",
+      "preco": 819.99,
+      "descricao": "Monitor Gamer TGT Altay TS4, 27 Pol, IPS, FHD, 1ms, 180Hz, FreeSync, HDMI/DP, TGT-ATTS4-BL02"
+    },
+    {
+      "id": "21",
+      "nome": "SSD Corsair MP600 CORE XT",
+      "categoria": "SSD",
+      "imagem": "SSD_Corsair_MP600_CORE_XT.jpg.jpg",
+      "preco": 1899.99,
+      "descricao": "SSD Corsair MP600 CORE XT, 4TB, PCIe Gen 4.0 x4 NVMe M.2, Leitura: 5000MB/s e Gravação: 4400MB/s, Preto - CSSD-F4000GBMP600CXT"
+    },
+    {
+      "id": "22",
+      "nome": "SSD Samsung 990 Pro",
+      "categoria": "SSD",
+      "imagem": "SSD_Samsung_990_Pro.jpg",
+      "preco": 2603.07,
+      "descricao": "Ssd samsung 990 pro 4tb nvme m.2 2280 leitura até 7450mb/s gravação até 6900mb/s interno - mz-v9p4t0b/am"
+    },
+    {
+      "id": "23",
+      "nome": "SSD Corsair MP700 Pro",
+      "categoria": "SSD",
+      "imagem": "SSD_Corsair_MP700_Pro.jpg",
+      "preco": 5083.99,
+      "descricao": "SSD Corsair MP700 Pro, 4TB, M.2 NVMe, Leitura 12400MB/s e Gravação 11800MB/s, Preto - CSSD-F4000GBMP700PRO"
+    },
+    {
+      "id": "24",
+      "nome": "SSD WD Blue SN5000 NVMe",
+      "categoria": "SSD",
+      "imagem": "SSD_WD_Blue_SN5000_NVMe.jpg",
+      "preco": 2199.99,
+      "descricao": "SSD WD Blue SN5000 NVMe, 4TB,M.2 PCLe, Gen4, nCache 4.0, Leitura 5.500MB/s e Gravação 5.000MB/s - WDS400T4B0E"
+    },
+    {
+      "id": "25",
+      "nome": "XPG SSD GAMMIX S70",
+      "categoria": "SSD",
+      "imagem": "XPG_SSD_GAMMIX_S70.jpg",
+      "preco": 2613,
+      "descricao": "XPG SSD interno para jogos GAMMIX S70 Blade PCIe Gen4 M.2 2280 de 4 TB até 7.400 MB/s - Funciona com PlayStation 5/PS5 (AGAMMIXS70B-4T-CS) "
+    }
+  ],
+  "carrinho": []
+}

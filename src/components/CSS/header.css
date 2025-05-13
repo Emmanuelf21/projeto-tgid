@@ -1,0 +1,148 @@
+.container-header {
+    width: 100%;
+    background: #fff;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 2px 10px #c9c8c898;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.container-header .container-search {
+    width: 80%;
+    height: 118px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background: #ffffff;
+    padding: 10px;
+}
+
+.container-header .container-search>.flex {
+    flex-direction: column;
+    width: 90%;
+    gap: 20px;
+}
+
+.container-header .container-search>.flex>div,
+.container-header .container-search>.flex>menu {
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container-header .container-search>.flex>menu {
+    height: 58px;
+}
+.container-header .container-search>.flex>menu a{
+    text-decoration: none;
+    color: #000;
+}
+.container-header .container-search>.flex .flex-logo {
+    gap: 6.25rem;
+    align-items: center;
+}
+.container-header .container-search>.flex .flex-logo a{
+    text-decoration: none;
+    color: #000;
+}
+
+.container-header .container-search .search-bar {
+    width: 37.125rem;
+    border: 2px solid #dfdfdf;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+.container-header .container-search .search-bar input {
+    width: 90%;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    font-size: 0.87rem;
+    font-weight: 600;
+
+}
+
+.container-header .container-search .search-bar input::placeholder {
+    color: #000;
+    font-size: 0.87rem;
+    font-weight: 600;
+}
+
+.container-header .container-search .search-bar button {
+    width: 10%;
+    border: none;
+    background: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.container-header .container-search .user {
+    height: 30px;
+    align-items: center;
+    gap: 20px;
+}
+
+.container-header .container-search .user>div {
+    align-items: center;
+    gap: 10px;
+}
+
+.container-header .container-search .user>div img {
+    height: 30px;
+}
+
+.container-header .container-search .user .car {
+    position: relative;
+    display: flex;
+
+    height: 100%;
+    width: 2.5rem;
+
+}
+
+
+.container-header .container-search .user .car img,
+.container-header .container-search .user .car p {
+    position: absolute;
+
+}
+
+.container-header .container-search .user .car p {
+    z-index: 1;
+    top: -10px;
+    right: 0;
+    background: #005cff;
+    width: 20px;
+    text-align: center;
+    color: #fff;
+    border-radius: 50%;
+}
+
+.container-header .container-search .container-menu {
+    width: 80%;
+}
+
+.container-header .container-search .container-menu .dropdown-menu-categorias .flex {
+    gap: 10px;
+}
+
+.container-header .container-search .container-menu .dropdown-menu-categorias img {
+    object-fit: contain;
+}
+
+.banner {
+    background: #E7E7EA;
+    width: 100%;
+    margin: auto;
+    position: relative;
+    top: -100px;
+    
+}

@@ -1,0 +1,70 @@
+.container-produtos{
+    width: 70%;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 20px;
+    border-top: 1px solid #8d8d8d;
+    padding: 20px 0px;
+}
+
+.card{
+    width: 250px;
+    height: 460px;
+    justify-content: flex-start;
+    gap: 30px;
+}
+
+.card img{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    background: white;
+    object-fit: contain;
+}
+.card .flex-column{
+    gap: 10px;
+    border-top: 1px solid #3b3b3b;
+    padding-top: 10px;
+}
+
+.card p{
+    color: #adadad;
+}
+
+.card .preco{
+    font-size: 1.2rem;
+}
+
+.container-produtos h2{
+    text-align: center;
+}
+.container-produtos .card{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.div-btn{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 100%;
+    
+}
+
+button{
+    height: 30px;
+    background: #3b3b3b;
+    border-radius: 30px;
+    position: relative;
+    font-size: 15px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    color: #fff;
+    padding: 0px 10px;
+}
+
+button:hover{
+    background: #494949;
+}
